@@ -116,3 +116,8 @@
   font-weight: bold;
   font-size: medium;
 }
+.bottom-aap a{
+  background-color: black;
+  height: 3vh;
+  width: 5vw;
+}
